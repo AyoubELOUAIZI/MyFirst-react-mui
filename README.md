@@ -1,4 +1,4 @@
-# simple Project with MUI:
+# simple Project with MUI 🎈✨:
 ## Screen shots :
 ![](./public/screenShots/screenshot_20230528_131113.png)
 ![](./public/screenShots/screenshot_20230528_131145.png)
